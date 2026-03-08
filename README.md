@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Samip Pudasaini 👋</h1>
 
 <p align="center">
-  <em>Final Year CS Student &nbsp;•&nbsp; JS Enthusiast &nbsp;•&nbsp; Android Developer &nbsp;•&nbsp; Lifelong Learner</em>
+  <em>Final Year CS Student &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; Android Developer &nbsp;•&nbsp; Lifelong Learner</em>
 </p>
 
 <p align="center">
@@ -59,12 +59,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samip-pudasaini&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samip-pudasaini&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samip-pudasaini&theme=tokyonight&hide_border=true" />
 </p>
