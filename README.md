@@ -51,7 +51,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [✅ ToDoList](https://todolistweb-hzdvgvh8g7d9g9es.australiaeast-01.azurewebsites.net/) | **🌐 Live** — Task manager with priorities, due dates & calendar view | C#, ASP.NET Core, Azure SQL |
+| [✅ ToDoList](https://github.com/samip-pudasaini/ToDOList) | **🌐 Live** — Task manager with priorities, due dates & calendar view | C#, ASP.NET Core, Azure SQL |
 | [🍿 AnimeShelf](https://github.com/samip-pudasaini/AnimeShelf) | MAL-style anime tracking web app | Vue.js, PHP, Bootstrap |
 | [💬 RealTimeChat](https://github.com/samip-pudasaini/RealTimeChat) | Real-time chat application | MongoDB, Express, React, Node.js |
 | [🎬 Media-List](https://github.com/samip-pudasaini/Media-List) | Android app to track watched movies | Kotlin |
