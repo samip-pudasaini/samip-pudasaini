@@ -51,9 +51,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [✅ ToDoList](https://github.com/samip-pudasaini/ToDOList) | **🌐 Live** — Task manager with priorities, due dates & calendar view | C#, ASP.NET Core, Azure SQL |
+| [💬 RealTimeChat](https://github.com/samip-pudasaini/RealTimeChat) (https://realtimechat-72l7.onrender.com/) | **🌐 Live** —  Real-time chat application | MongoDB, Express, React, Node.js |
+| [✅ ToDoList](https://github.com/samip-pudasaini/ToDOList) |Task manager with priorities, due dates & calendar view | C#, ASP.NET Core, Azure SQL |
 | [🍿 AnimeShelf](https://github.com/samip-pudasaini/AnimeShelf) | MAL-style anime tracking web app | Vue.js, PHP, Bootstrap |
-| [💬 RealTimeChat](https://github.com/samip-pudasaini/RealTimeChat) | Real-time chat application | MongoDB, Express, React, Node.js |
 | [🎬 Media-List](https://github.com/samip-pudasaini/Media-List) | Android app to track watched movies | Kotlin |
 | [🚗 CarRental](https://github.com/samip-pudasaini/CarRental) | Car rental system | Kotlin |
 | [📊 dataVisualisation](https://github.com/samip-pudasaini/dataVisualisation) | Visualising mobile phone driving offences | JavaScript, D3.js |
