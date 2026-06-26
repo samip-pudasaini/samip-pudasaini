@@ -51,7 +51,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [💬 RealTimeChat](https://github.com/samip-pudasaini/RealTimeChat) (https://realtimechat-72l7.onrender.com/) | **🌐 Live** —  Real-time chat application | MongoDB, Express, React, Node.js |
+| [💬 RealTimeChat](https://realtimechat-72l7.onrender.com/) | **🌐 Live** —  Real-time chat application | MongoDB, Express, React, Node.js |
 | [✅ ToDoList](https://github.com/samip-pudasaini/ToDOList) |Task manager with priorities, due dates & calendar view | C#, ASP.NET Core, Azure SQL |
 | [🍿 AnimeShelf](https://github.com/samip-pudasaini/AnimeShelf) | MAL-style anime tracking web app | Vue.js, PHP, Bootstrap |
 | [🎬 Media-List](https://github.com/samip-pudasaini/Media-List) | Android app to track watched movies | Kotlin |
